@@ -1,0 +1,73 @@
+Project Overview:
+
+This project aims to automatically convert PIB (Press Information Bureau) press releases into engaging videos using Artificial Intelligence, Machine Learning, and Generative Adversarial Networks (GANs).
+The system supports English and 13 regional Indian languages, ensuring accessibility, cultural relevance, and effective communication of government information.
+⸻
+Features:
+	•	Automatic text summarization of PIB releases using NLP.
+	•	Multilingual support (English + 13 regional languages).
+	•	Text-to-Speech (TTS) conversion for narration.
+	•	GAN-based video generation with synchronized narration.
+	•	Scalable and cost-effective solution using cloud + open-source tools.
+
+⸻
+Objectives:
+	•	Convert PIB press releases into video format.
+	•	Improve accessibility for audiences preferring video over text.
+	•	Deliver information in regional languages.
+	•	Enhance public awareness with engaging multimedia.
+
+⸻
+
+Literature Survey:
+	•	Explored GANs for video generation from text.
+	•	Learned NLP techniques for text understanding.
+	•	Implemented text-to-speech (TTS) and speech recognition.
+	•	Researched multilingual translation systems.
+	•	Found limited studies on regional languages + PIB automation.
+
+⸻
+
+Methodology:
+
+Proposed Workflow
+	1.	Collect PIB press release text.
+	2.	Perform text understanding & summarization using NLP.
+	3.	Translate into 13 regional languages.
+	4.	Generate speech narration via TTS.
+	5.	Use GANs for video generation with narration.
+	6.	Deliver the final video output.
+
+⸻
+
+ Architecture & Modules:
+	•	Text Input (PIB release)
+	•	Language Translation
+	•	NLP + Summarization
+	•	Text-to-Speech (TTS)
+	•	GAN-based Video Generation
+	•	Final Video Output
+
+⸻
+
+ Tech Stack:
+	•	Programming Languages: Python, HTML, CSS
+	•	Frameworks: TensorFlow, TensorFlow-GAN
+	•	NLP Libraries: NLTK, Hugging Face Transformers
+	•	TTS Tools: Google Text-to-Speech
+
+⸻
+
+Project Timeline (Review-2):
+	•	Week 1: Literature Survey
+	•	Week 2: NLP & Translation Module
+	•	Week 3: Text-to-Speech (TTS) Module
+	•	Week 4: GAN-based Video Generation
+	•	Week 5: Testing & Evaluation
+
+⸻
+
+References:
+	1.	P. Sharma, S. Kumar, and R. Singh, “Creating Corpus of Low Resource Indian Languages for Natural Language Processing,” ACL Anthology, 2024.
+	2.	A. Gupta and M. R. Joshi, “Natural Language Processing Applications for Low-Resource Languages,” Cambridge University Press & Assessment, 2023.
+	3.	K. R. Rao and S. Patil, “A Survey on NLP Tasks, Resources, and Techniques for Low-Resource Indian Languages,” ACM Digital Library, 2022.
